@@ -1,0 +1,7 @@
+.todo-list{
+  list-style-type: square;
+  border: 5px solid green;
+  background-color: rgba(0, 128, 0, 0.363);
+  list-style-type: none;
+  padding: 10px 20px;
+}

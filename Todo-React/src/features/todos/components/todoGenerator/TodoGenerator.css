@@ -1,0 +1,14 @@
+.todo-form{
+    background-color: aliceblue;
+    padding: 20px;
+    border: 2px solid cornflowerblue;
+    margin: 20px;
+}
+
+.todo-form__content{
+    display: flex;
+}
+
+.todo-form__content__button{
+    margin-left: 20px;
+}

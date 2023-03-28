@@ -1,0 +1,23 @@
+.todo-item{
+  border: 1px solid orange;
+  flex-direction:row;
+  margin-bottom: 20px;
+}
+
+.todo-item__content__false{
+  background-color: rgba(255, 208, 0, 0.308);
+  padding: 20px;
+  margin: 10px;
+}
+
+.todo-item__content__true{
+  background-color: gainsboro;
+  padding: 20px;
+  margin: 10px;
+}
+
+.todo-item__button{
+  margin: 10px;
+  align-items: center;
+  width: 100px;
+}

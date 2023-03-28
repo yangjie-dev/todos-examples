@@ -1,0 +1,11 @@
+.todo-group{
+  background-color: aliceblue;
+  padding: 20px;
+  border: 2px solid cornflowerblue;
+  margin: 20px;
+}
+
+.todo-group__item{
+  border: 5px wheat;
+  background-color:  yellow;
+}
